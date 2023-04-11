@@ -1,5 +1,4 @@
 import ExpenseItem from "./components/ExpenseItem";
-
       /*props refers this atributes that we have mapped in our custom components or elements.*/
       
 function App() {
