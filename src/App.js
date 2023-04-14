@@ -1,5 +1,5 @@
 import React from 'react';
-import Expenses from './components/Expenses'
+import Expenses from './components/Expenses/Expenses'
 
 /*props refers this atributes that we have mapped in our custom components or elements.*/
 

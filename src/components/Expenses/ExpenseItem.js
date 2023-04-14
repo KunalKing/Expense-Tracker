@@ -1,7 +1,7 @@
 import './ExpenseItem.css';
 import './ExpenseDate';
 import ExpenseDate from './ExpenseDate';
-import Card from './Card';
+import Card from '../UI/Card';
 
 function ExpenseItem(props){
     /* Props will refer the attributes properties in key value pair 
