@@ -3,7 +3,7 @@ import Expenses from './components/Expenses/Expenses'
 
 /*props refers this atributes that we have mapped in our custom components or elements.*/
 
-function App() {
+const App = () => {
   const expenses = [
     {
       id: "e1",

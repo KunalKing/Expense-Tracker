@@ -1,7 +1,7 @@
 import ExpenseItem from "./ExpenseItem";
 import './Expenses.css';
 
-function Expenses(props) {
+const Expenses = (props) =>{
    return <div>
     <ExpenseItem
       title = {props.items[0].title}
